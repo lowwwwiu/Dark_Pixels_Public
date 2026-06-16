@@ -1,8 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.0",
   "text_ru": "Доступно новое обновление",
   "text_en": "New update available",
-  "itch_url": "https://your-page.itch.io/dark-pixels",
-  "boosty_url": "https://boosty.to/your-page",
-  "telegram_url": "https://t.me/your_channel"
 }
